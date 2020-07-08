@@ -1,3 +1,3 @@
 module.exports = (str) => {
-    return `Hello ${str} , 💩a greeting from Luis`;
+    return `${str} , the first npm package created by Luis`;
 }
